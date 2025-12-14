@@ -1,5 +1,5 @@
 # Optimal-Execution-under-Incomplete-Information
-Code for the paper 'optimal execution with partial information' (link: https://arxiv.org/abs/2411.04616), combining filtering and regime-switching market dynamics. Includes numerical solvers for QVIs and simulation experiments supporting the accompanying research paper.
+Code for the paper 'optimal execution with partial information' (link: https://arxiv.org/abs/2411.04616). It includes numerical solvers for QVIs and simulation experiments supporting the accompanying research paper.
 
 ## Repository Structure
 

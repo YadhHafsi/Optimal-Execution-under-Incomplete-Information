@@ -13,8 +13,10 @@ Implements core operators and helper routines used in the dynamic programming an
 	•	Value_fun_NI.py
 Main solver for the value function under incomplete information.
 Implements the dynamic programming recursion and the numerical solution of the QVI associated with the optimal execution problem.
+
 	•	I0_no_func.py
 Handles the continuation (no-intervention) operator corresponding to the inactive trading region.
+
 	•	Operator_I1.py
 Implements the intervention operator associated with execution decisions.
 

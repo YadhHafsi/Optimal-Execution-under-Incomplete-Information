@@ -24,4 +24,4 @@ Implements the fixed-point operator associated with execution decisions.
 Numerical experiments illustrating the neural-network-based approximation of the value function and convergence of the fixed-point iterations.
 
 	•	Value_function_exercice_region.ipynb
-Visualization of continuation and execution regions implied by the solved QVI.
+Visualization of continuation and execution regions.

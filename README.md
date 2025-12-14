@@ -6,6 +6,7 @@ Code for the paper 'optimal execution with partial information' (link: https://a
 ## Core model and parameters
 	•	parameters.py
 Defines the global model parameters, grids, and numerical settings used throughout the project (time discretization, state grids, cost parameters, regime dynamics).
+
 	•	Prod.py
 Implements core operators and helper routines used in the dynamic programming and QVI solvers.
 
@@ -28,5 +29,6 @@ The neural network is used as an interpolation device within a fixed-point schem
 ## Notebooks (analysis and visualization)
 	•	Value_function_approx.ipynb
 Numerical experiments illustrating the neural-network-based approximation of the value function and convergence of the fixed-point iterations.
+
 	•	Value_function_exercice_region.ipynb
 Visualization of continuation and execution regions implied by the solved QVI.
